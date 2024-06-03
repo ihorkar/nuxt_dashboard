@@ -2,11 +2,6 @@
 
 > Nuxt 3 + Vuetify 3 + Material Dashboard
 
-[Demo](https://vuetify.srv.rekryt.ru/) - demonstration site
-
-![alt text](http://rekryt.ru/files/nuxt3-vuetify3-dashboard.png)
-```
-
 ## Docker
 ```shell
 $ docker build -t nuxt_dashboard .
