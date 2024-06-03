@@ -5,23 +5,6 @@
 [Demo](https://vuetify.srv.rekryt.ru/) - demonstration site
 
 ![alt text](http://rekryt.ru/files/nuxt3-vuetify3-dashboard.png)
-
-## Build Setup
-
-```shell
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-```
-Open http://localhost:3000
-
-## Production
-```shell
-# build for production and launch server
-$ npm run build
-$ npm run start
 ```
 
 ## Docker
